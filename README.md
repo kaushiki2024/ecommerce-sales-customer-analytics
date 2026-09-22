@@ -82,6 +82,8 @@ Business Recommendations
 
 ```
 
+```text
+
 ecommerce-sales-customer-analytics/
 │
 ├── README.md
@@ -108,7 +110,7 @@ ecommerce-sales-customer-analytics/
 │
 └── docs/
     └── data_dictionary.md
-
+```
 
 ## Project Status
 
