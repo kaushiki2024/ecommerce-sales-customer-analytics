@@ -61,6 +61,7 @@ The dataset contains two yearly datasets:
 ## Project Workflow
 
 ```text
+
 Raw E-Commerce Data
         ↓
 Data Cleaning
@@ -78,6 +79,7 @@ Power BI Dashboard
 Insights
         ↓
 Business Recommendations
+
 ```
 
 ecommerce-sales-customer-analytics/
